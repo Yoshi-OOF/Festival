@@ -27,9 +27,7 @@
         document.addEventListener('DOMContentLoaded', () => {
             console.log('Page de localisation chargée.');
         });
-    </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
-    </script>
+
 </head>
 <body>
     <?php include 'header.html'; ?>
@@ -38,8 +36,7 @@
         <section id="localisation">
             <h2>Localisation du Festival</h2>
             <p>Le StudentFest se déroule dans le magnifique Périgord, offrant un cadre idéal pour profiter de la musique et des activités proposées.</p>
-            <img src="./assets/dordogne.webp" class="img-fluid" alt="Paysage du Périgord">
-            <div id="map" class="border"></div>
+            <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1uSI33E17fxjHmSAoGGZd-2D2uFiGbYo&ehbc=2E312F" width="1200" height="480"></iframe>
         </section>
     </main>
 

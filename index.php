@@ -160,16 +160,16 @@
             <h3>Galerie Photos</h3>
             <div class="row">
                 <div class="col-md-3 mb-3">
-                    <img src="https://images.unsplash.com/photo-1507491545510-1d5e4f7228a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc1OTl8MHwxfHNlYXJjaHwxfHxmaXN0aXZhbCUyMGZlc3RpdmFsfGVufDB8fHx8MTY4OTcxNDA2Ng&ixlib=rb-4.0.3&q=80&w=300" class="img-fluid" alt="Photo 1">
+                    <img src="./assets/panagbenga.jpg" class="img-fluid rounded" alt="Photo 1">
                 </div>
                 <div class="col-md-3 mb-3">
-                    <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc1OTl8MHwxfHNlYXJjaHwxfHxjb25jZXJ0JTIwZmVzdGl2YWx8ZW58MHx8fHwxNjg5NzE0MDY4&ixlib=rb-4.0.3&q=80&w=300" class="img-fluid" alt="Photo 2">
+                    <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc1OTl8MHwxfHNlYXJjaHwxfHxjb25jZXJ0JTIwZmVzdGl2YWx8ZW58MHx8fHwxNjg5NzE0MDY4&ixlib=rb-4.0.3&q=80&w=300" class="img-fluid rounded" alt="Photo 2">
                 </div>
                 <div class="col-md-3 mb-3">
-                    <img src="https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc1OTl8MHwxfHNlYXJjaHwxfHxqdWF6fGVufDB8fHx8MTY4OTcxNDA3MQ&ixlib=rb-4.0.3&q=80&w=300" class="img-fluid" alt="Photo 3">
+                    <img src="https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc1OTl8MHwxfHNlYXJjaHwxfHxqdWF6fGVufDB8fHx8MTY4OTcxNDA3MQ&ixlib=rb-4.0.3&q=80&w=300" class="img-fluid rounded" alt="Photo 3">
                 </div>
                 <div class="col-md-3 mb-3">
-                    <img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc1OTl8MHwxfHNlYXJjaHwxfHxldGVjZHJvfGVufDB8fHx8MTY4OTcxNDA3Ng&ixlib=rb-4.0.3&q=80&w=300" class="img-fluid" alt="Photo 4">
+                    <img src="https://images.unsplash.com/photo-1511376777868-611b54f68947?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc1OTl8MHwxfHNlYXJjaHwxfHxldGVjZHJvfGVufDB8fHx8MTY4OTcxNDA3Ng&ixlib=rb-4.0.3&q=80&w=300" class="img-fluid rounded" alt="Photo 4">
                 </div>
             </div>
             <p class="text-center"><a href="galerie.php" class="btn btn-primary">Voir plus de photos</a></p>

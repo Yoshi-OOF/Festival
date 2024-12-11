@@ -70,7 +70,6 @@
             <div class="row g-4">
                 <div class="col-md-6 col-lg-3">
                     <div class="card scene-card h-100">
-                        <img src="images/scene-principale.jpg" class="card-img-top" alt="Scène Principale">
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-music"></i> Scène Principale</h5>
                             <p class="card-text">Accueille les têtes d'affiche du festival avec des artistes internationaux et des groupes renommés.</p>
@@ -79,7 +78,6 @@
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="card scene-card h-100">
-                        <img src="images/scene-acoustique.jpg" class="card-img-top" alt="Scène Acoustique">
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-guitar"></i> Scène Acoustique</h5>
                             <p class="card-text">Espace dédié aux performances acoustiques et aux artistes émergents, offrant une ambiance intimiste.</p>
@@ -88,7 +86,6 @@
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="card scene-card h-100">
-                        <img src="images/scene-electronique.jpg" class="card-img-top" alt="Scène Électronique">
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-headphones"></i> Scène Électronique</h5>
                             <p class="card-text">Pour les amateurs de musique électronique, avec des DJs et des performances visuelles impressionnantes.</p>
@@ -97,7 +94,6 @@
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="card scene-card h-100">
-                        <img src="images/scene-alternative.jpg" class="card-img-top" alt="Scène Alternative">
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-microphone-alt"></i> Scène Alternative</h5>
                             <p class="card-text">Espace pour les genres alternatifs, incluant rock, indie et autres styles innovants.</p>
@@ -137,13 +133,13 @@
             <h2 class="mb-4 text-center">Galerie Photos</h2>
             <div class="row g-3">
                 <div class="col-md-4">
-                    <img src="assets/Carnival-YasuyoshiChiba-01.jpg" class="img-fluid rounded" alt="Galerie 1">
+                    <img src="./assets/Carnival-YasuyoshiChiba-01.jpg" class="img-fluid rounded" alt="Galerie 1">
                 </div>
                 <div class="col-md-4">
-                    <img src="assets/dXAx-FJ3.jpg" class="img-fluid rounded" alt="Galerie 2">
+                    <img src="./assets/dXAx-FJ3.jpg" class="img-fluid rounded" alt="Galerie 2">
                 </div>
                 <div class="col-md-4">
-                    <img src="assets/panagbenga.jpg" class="img-fluid rounded" alt="Galerie 3">
+                    <img src="./assets/panagbenga.jpg" class="img-fluid rounded" alt="Galerie 3">
                 </div>
             </div>
         </div>

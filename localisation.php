@@ -3,6 +3,7 @@
 ?>
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <title>StudentFest 2024 - Localisation</title>
@@ -12,7 +13,7 @@
     <script>
         // Script JavaScript pour intégrer une carte (exemple avec Google Maps)
         function initMap() {
-            var festivalLocation = {lat: 45.123456, lng: 1.234567}; // Remplacez par les coordonnées réelles
+            var festivalLocation = { lat: 45.123456, lng: 1.234567 }; // Remplacez par les coordonnées réelles
             var map = new google.maps.Map(document.getElementById('map'), {
                 zoom: 12,
                 center: festivalLocation
@@ -28,19 +29,45 @@
             console.log('Page de localisation chargée.');
         });
     </script>
+
+    <style>
+        .map-container {
+            position: relative;
+            width: 100%;
+            padding-bottom: 40%;
+            /* Ratio hauteur/largeur (par exemple, 480/1200 = 0.4) */
+            height: 0;
+            overflow: hidden;
+        }
+
+        .map-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+    </style>
 </head>
+
 <body>
     <?php include 'header.html'; ?>
 
     <main class="container my-4">
         <section id="localisation">
             <h2>Localisation du Festival</h2>
-            <p>Le StudentFest se déroule dans le magnifique Périgord, offrant un cadre idéal pour profiter de la musique et des activités proposées.</p>
-            <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1uSI33E17fxjHmSAoGGZd-2D2uFiGbYo&ehbc=2E312F" width="1200" height="480"></iframe>
+            <p>Le StudentFest se déroule dans le magnifique Périgord, offrant un cadre idéal pour profiter de la musique
+                et des activités proposées.</p>
+            <div class="map-container">
+                <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1uSI33E17fxjHmSAoGGZd-2D2uFiGbYo&ehbc=2E312F"
+                    allowfullscreen></iframe>
+            </div>
         </section>
     </main>
 
     <?php include 'footer.html'; ?>
 
 </body>
+
 </html>

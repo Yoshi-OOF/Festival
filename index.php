@@ -47,7 +47,7 @@
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc1OTl8MHwxfHNlYXJjaHwxfHxjb25jZXJ0JTIwZmVzdGl2YWx8ZW58MHx8fHwxNjg5NzE0MDI4&ixlib=rb-4.0.3&q=80&w=1200" class="d-block w-100" alt="Concert En Direct">
+                        <img src="./assets/concert.jpg" class="d-block w-100" alt="Concert En Direct">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Concert en Direct</h5>
                             <p>Des performances live inoubliables.</p>
@@ -61,7 +61,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc1OTl8MHwxfHNlYXJjaHwxfHxhdHdvcmtlfGVufDB8fHx8MTY4OTcxNDAzMQ&ixlib=rb-4.0.3&q=80&w=1200" class="d-block w-100" alt="Ateliers Musique">
+                        <img src="./assets/atelier.jpg" class="d-block w-100" alt="Ateliers Musique">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Ateliers Musique</h5>
                             <p>Participez à des ateliers interactifs.</p>

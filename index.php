@@ -54,7 +54,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="https://images.unsplash.com/photo-1508264165352-258a6c8b81d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc1OTl8MHwxfHNlYXJjaHwxfHxzdW5zfGVufDB8fHx8MTY4OTcxNDAzMA&ixlib=rb-4.0.3&q=80&w=1200" class="d-block w-100" alt="Scène Principal">
+                        <img src="./assets/scene.jpg" class="d-block w-100" alt="Scène Principal">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Scène Principal</h5>
                             <p>La meilleure ambiance sur notre scène principale.</p>

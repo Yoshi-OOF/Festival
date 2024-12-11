@@ -38,6 +38,7 @@
         <section id="localisation">
             <h2>Localisation du Festival</h2>
             <p>Le StudentFest se déroule dans le magnifique Périgord, offrant un cadre idéal pour profiter de la musique et des activités proposées.</p>
+            <img src="./assets/dordogne.webp" class="img-fluid" alt="Paysage du Périgord">
             <div id="map" class="border"></div>
         </section>
     </main>

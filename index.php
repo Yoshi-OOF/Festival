@@ -91,19 +91,19 @@
             <div class="row">
                 <!-- Rock -->
                 <div class="col-md-4 music-style">
-                    <img src="./assets/rock.jpg" alt="Rock">
+                    <img class="rounded" src="./assets/rock.jpg" alt="Rock">
                     <h4>Rock</h4>
                     <p>Des groupes énergétiques et des performances électrisantes pour les amateurs de rock.</p>
                 </div>
                 <!-- Electro -->
                 <div class="col-md-4 music-style">
-                    <img src="./assets/electro.jpg" alt="Électro">
+                    <img class="rounded" src="./assets/electro.jpg" alt="Électro">
                     <h4>Électro</h4>
                     <p>Plongez dans des beats vibrants et des sons innovants avec nos artistes électro.</p>
                 </div>
                 <!-- Jazz -->
                 <div class="col-md-4 music-style">
-                    <img src="./assets/jazz.jpg" alt="Jazz">
+                    <img class="rounded" src="./assets/jazz.jpg" alt="Jazz">
                     <h4>Jazz</h4>
                     <p>Laissez-vous emporter par les mélodies sophistiquées et les improvisations captivantes.</p>
                 </div>
@@ -111,19 +111,19 @@
             <div class="row mt-4">
                 <!-- Pop -->
                 <div class="col-md-4 music-style">
-                    <img src="./assets/pop.jpg" alt="Pop">
+                    <img class="rounded" src="./assets/pop.jpg" alt="Pop">
                     <h4>Pop</h4>
                     <p>Des hits entraînants et des performances scintillantes pour danser toute la nuit.</p>
                 </div>
                 <!-- Hip-Hop -->
                 <div class="col-md-4 music-style">
-                    <img src="./assets/hip-hop.png" alt="Hip-Hop">
+                    <img class="rounded" src="./assets/hip-hop.png" alt="Hip-Hop">
                     <h4>Hip-Hop</h4>
                     <p>Des rythmes percutants et des flows innovants des meilleurs talents hip-hop.</p>
                 </div>
                 <!-- Musiques du Monde -->
                 <div class="col-md-4 music-style">
-                    <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc1OTl8MHwxfHNlYXJjaHwxfHxtdXNpYXF1ZXN8ZW58MHx8fHwxNjg5NzE0MDU1&ixlib=rb-4.0.3&q=80&w=400" alt="Musiques du Monde">
+                    <img class="rounded" src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc1OTl8MHwxfHNlYXJjaHwxfHxtdXNpYXF1ZXN8ZW58MHx8fHwxNjg5NzE0MDU1&ixlib=rb-4.0.3&q=80&w=400" alt="Musiques du Monde">
                     <h4>Musiques du Monde</h4>
                     <p>Découvrez une diversité de sons et de rythmes venus des quatre coins du globe.</p>
                 </div>

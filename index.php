@@ -47,21 +47,21 @@
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="./assets/concert.jpg" class="d-block w-100" alt="Concert En Direct">
+                        <img src="./assets/concert.jpg" class="d-block w-100 rounded" alt="Concert En Direct">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Concert en Direct</h5>
                             <p>Des performances live inoubliables.</p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="./assets/scene.jpg" class="d-block w-100" alt="Scène Principal">
+                        <img src="./assets/scene.jpg" class="d-block w-100 rounded" alt="Scène Principal">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Scène Principal</h5>
                             <p>La meilleure ambiance sur notre scène principale.</p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="./assets/atelier.jpg" class="d-block w-100" alt="Ateliers Musique">
+                        <img src="./assets/atelier.jpg" class="d-block w-100 rounded" alt="Ateliers Musique">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Ateliers Musique</h5>
                             <p>Participez à des ateliers interactifs.</p>

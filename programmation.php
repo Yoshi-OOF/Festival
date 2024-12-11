@@ -140,7 +140,7 @@
                     <img src="assets/Carnival-YasuyoshiChiba-01.jpg" class="img-fluid rounded" alt="Galerie 1">
                 </div>
                 <div class="col-md-4">
-                    <img src="assets/festival-of-lights.jpg" class="img-fluid rounded" alt="Galerie 2">
+                    <img src="assets/dXAx-FJ3.jpg" class="img-fluid rounded" alt="Galerie 2">
                 </div>
                 <div class="col-md-4">
                     <img src="assets/panagbenga.jpg" class="img-fluid rounded" alt="Galerie 3">

@@ -17,20 +17,7 @@
     </script>
 </head>
 <body>
-    <header class="bg-dark text-white text-center py-3">
-        <h1>StudentFest 2024</h1>
-        <nav>
-            <ul class="nav justify-content-center">
-            <li class="nav-item"><a class="nav-link text-white" href="index.php">Accueil</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="organisateurs.php">Organisateurs</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="valeurs.php">Nos Valeurs</a></li>
-                <!-- <li class="nav-item"><a class="nav-link text-white" href="identité_visuelle.php">Identité Visuelle</a></li> -->
-                <li class="nav-item"><a class="nav-link text-white" href="programmation.php">Programmation</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="billetterie.php">Billetterie</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="localisation.php">Localisation</a></li>
-            </ul>
-        </nav>
-    </header>
+<?php include 'header.html'; ?>
 
     <main class="container my-4">
         <section id="valeurs">

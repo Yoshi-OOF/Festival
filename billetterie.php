@@ -54,21 +54,13 @@
         <h1>StudentFest 2024</h1>
         <nav>
             <ul class="nav justify-content-center">
-                <li class="nav-item"><a class="nav-link text-white" href="index.php">Accueil</a></li>
+            <li class="nav-item"><a class="nav-link text-white" href="index.php">Accueil</a></li>
                 <li class="nav-item"><a class="nav-link text-white" href="organisateurs.php">Organisateurs</a></li>
                 <li class="nav-item"><a class="nav-link text-white" href="valeurs.php">Nos Valeurs</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="identité_visuelle.php">Identité Visuelle</a></li>
+                <!-- <li class="nav-item"><a class="nav-link text-white" href="identité_visuelle.php">Identité Visuelle</a></li> -->
                 <li class="nav-item"><a class="nav-link text-white" href="programmation.php">Programmation</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="village_partners.php">Le Village</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="infos_hebergement.php">Infos Pratiques</a></li>
                 <li class="nav-item"><a class="nav-link text-white" href="billetterie.php">Billetterie</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="avis.php">Avis</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="phototheque.php">Photothèque</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="reseaux_sociaux.php">Réseaux Sociaux</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="newsletter.php">Newsletter</a></li>
                 <li class="nav-item"><a class="nav-link text-white" href="localisation.php">Localisation</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="multilingue.php">Multilingue</a></li>
-                <li class="nav-item"><a class="nav-link text-white" href="mentions_legales.php">Mentions Légales</a></li>
             </ul>
         </nav>
     </header>

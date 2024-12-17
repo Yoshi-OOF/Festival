@@ -85,6 +85,67 @@
             <h4>Le festival de musique étudiant le plus attendu du Périgord ! Rejoignez-nous pour trois jours de découvertes musicales, de rencontres et de festivités dans des lieux emblématiques de la région. Que vous soyez passionné par les dernières tendances ou à la recherche de nouveaux talents, le StudentFest 2024 a quelque chose pour tout le monde.</h4>
         </section>
 
+        <!-- Valeurs du Festival -->
+        <section id="valeurs" class="mb-4">
+            <h3>Nos Valeurs</h3>
+            <div class="row">
+                <!-- Inclusivité -->
+                <div class="col-md-2 mb-3">
+                    <div class="card h-100">
+                        <img src="assets/inclusivite.png" class="card-img-top" alt="Inclusivité">
+                        <div class="card-body">
+                            <h5 class="card-title">Inclusivité</h5>
+                            <p class="card-text">Un festival ouvert à tous, sans discrimination, pour une expérience partagée et accueillante.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Durabilité -->
+                <div class="col-md-2 mb-3">
+                    <div class="card h-100">
+                        <img src="assets/durabilite.jpg" class="card-img-top" alt="Durabilité">
+                        <div class="card-body">
+                            <h5 class="card-title">Durabilité</h5>
+                            <p class="card-text">Des initiatives écoresponsables pour réduire notre impact environnemental et préserver la beauté du Périgord.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Innovation -->
+                <div class="col-md-2 mb-3">
+                    <div class="card h-100">
+                        <img src="assets/innovation.png" class="card-img-top" alt="Innovation">
+                        <div class="card-body">
+                            <h5 class="card-title">Innovation</h5>
+                            <p class="card-text">Soutenir les artistes émergents et promouvoir les nouvelles tendances musicales à travers des performances inédites.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Communauté -->
+                <div class="col-md-2 mb-3">
+                    <div class="card h-100">
+                        <img src="assets/communauté.jpg" class="card-img-top" alt="Communauté">
+                        <div class="card-body">
+                            <h5 class="card-title">Communauté</h5>
+                            <p class="card-text">Renforcer les liens entre les étudiants et les habitants du Périgord pour un festival qui unit.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Qualité -->
+                <div class="col-md-2 mb-3">
+                    <div class="card h-100">
+                        <img src="assets/qualité.jpg" class="card-img-top" alt="Qualité">
+                        <div class="card-body">
+                            <h5 class="card-title">Qualité</h5>
+                            <p class="card-text">Offrir une expérience mémorable avec des prestations de haut niveau, pour un festival inoubliable.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- Styles de Musique -->
         <section id="styles-musique" class="mb-4">
             <h3>Nos Styles de Musique</h3>

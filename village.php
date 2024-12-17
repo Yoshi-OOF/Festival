@@ -27,7 +27,7 @@
             <div class="row">
                 <div class="col-md-6 col-lg-4">
                     <div class="card mb-4">
-                        <img src="animation1.jpg" class="card-img-top" alt="Animation 1">
+                        <img src="Atelier de danse.jpg" class="card-img-top" alt="Animation 1">
                         <div class="card-body">
                             <h3 class="card-title">Atelier de Danse</h3>
                             <p class="card-text">Participez à nos ateliers de danse animés par des professionnels et découvrez de nouveaux styles.</p>
@@ -37,30 +37,30 @@
 
                 <div class="col-md-6 col-lg-4">
                     <div class="card mb-4">
-                        <img src="animation2.jpg" class="card-img-top" alt="Animation 2">
+                        <img src="Aire de jeux.jpg" class="card-img-top" alt="Animation 2">
                         <div class="card-body">
-                            <h3 class="card-title">Zone de Jeux</h3>
-                            <p class="card-text">Une zone dédiée aux jeux pour petits et grands, avec des jeux interactifs et des compétitions amicales.</p>
+                            <h3 class="card-title">Aire de Jeux</h3>
+                            <p class="card-text">Une zone dédiée aux jeux pour petits avec des infrastructures solides et sécurisées.</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-6 col-lg-4">
                     <div class="card mb-4">
-                        <img src="animation3.jpg" class="card-img-top" alt="Animation 3">
+                        <img src="Atelier de cirque.jpg" class="card-img-top" alt="Animation 3">
                         <div class="card-body">
-                            <h3 class="card-title">Atelier de Création</h3>
-                            <p class="card-text">Exprimez votre créativité lors de nos ateliers de peinture, de sculpture et d'artisanat.</p>
+                            <h3 class="card-title">Atelier de Cirque</h3>
+                            <p class="card-text">Participez à nos ateliers de cirque animés par des professionnels et découvrez de nouveaux horizons.</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-6 col-lg-4">
                     <div class="card mb-4">
-                        <img src="animation4.jpg" class="card-img-top" alt="Animation 4">
+                        <img src="Atelier de magie.jpg" class="card-img-top" alt="Animation 4">
                         <div class="card-body">
-                            <h3 class="card-title">Concours de Déguisements</h3>
-                            <p class="card-text">Venez déguisés et participez à notre concours pour gagner de superbes prix.</p>
+                            <h3 class="card-title">Atelier de Magie</h3>
+                            <p class="card-text">Participez à nos ateliers de magie animés par des professionnels et découvrez de nouvelles réalités.</p>
                         </div>
                     </div>
                 </div>

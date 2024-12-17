@@ -146,14 +146,46 @@
         <!-- Accessibilité -->
         <section id="accessibilite" class="mb-4">
             <h3>Accessibilité</h3>
-            <p>Accès facile en transport collectif, hébergement disponible à proximité, restauration variée et options adaptées pour tous les participants.</p>
-            <ul>
-                <li>Transports en commun accessibles</li>
-                <li>Parking gratuit sur place</li>
-                <li>Options végétariennes et véganes disponibles</li>
-                <li>Accessibilité pour les personnes à mobilité réduite</li>
-            </ul>
+            <p>Le StudentFest 2024 met un point d'honneur à être inclusif et accessible pour tous les participants :</p>
+            <div class="row">
+                <!-- Transports -->
+                <div class="col-md-6 mb-3">
+                    <div class="border p-3 rounded">
+                        <h4>🚍 Transports</h4>
+                        <p>Arrêts de bus et stations de tramway situés à moins de 200 mètres du site.</p>
+                    </div>
+                </div>
+                <!-- Stationnement -->
+                <div class="col-md-6 mb-3">
+                    <div class="border p-3 rounded">
+                        <h4>🅿️ Stationnement</h4>
+                        <p>Parking gratuit avec des places prioritaires réservées aux personnes à mobilité réduite.</p>
+                    </div>
+                </div>
+                <!-- Mobilité -->
+                <div class="col-md-6 mb-3">
+                    <div class="border p-3 rounded">
+                        <h4>♿ Mobilité sur le site</h4>
+                        <p>Chemins pavés et rampes d'accès pour faciliter les déplacements en fauteuil roulant.</p>
+                    </div>
+                </div>
+                <!-- Services Adaptés -->
+                <div class="col-md-6 mb-3">
+                    <div class="border p-3 rounded">
+                        <h4>🛠️ Services Adaptés</h4>
+                        <p>Toilettes accessibles, zones de repos adaptées et signalétique claire pour une orientation facile.</p>
+                    </div>
+                </div>
+                <!-- Assistance -->
+                <div class="col-md-12 mb-3">
+                    <div class="border p-3 rounded">
+                        <h4>🤝 Assistance</h4>
+                        <p>Points d'accueil avec un personnel formé pour accompagner les personnes ayant des besoins spécifiques.</p>
+                    </div>
+                </div>
+            </div>
         </section>
+
 
         <!-- Galerie Photos -->
         <section id="galerie" class="mb-4">

@@ -69,6 +69,12 @@
         background-color: rgba(255, 255, 255, 0.1);
     }
 
+    /* Style pour le lien actif */
+    .custom-nav .nav-link.active {
+        color: #023f00;
+        background-color: rgba(255, 255, 255, 0.2);
+    }
+
     .navbar-toggler {
         border-color: rgba(255, 255, 255, 0.7);
         transition: transform 0.3s ease;
@@ -170,6 +176,7 @@
 </header>
 
 <script>
+    // Gestion de l'effet de défilement sur l'en-tête
     window.addEventListener('scroll', function () {
         const header = document.querySelector('.custom-header');
         if (window.scrollY > 50) {
@@ -177,5 +184,25 @@
         } else {
             header.classList.remove('scrolled');
         }
+    });
+
+    // Mise en évidence du lien de navigation actif
+    document.addEventListener('DOMContentLoaded', () => {
+        const currentPath = window.location.pathname.split('/').pop();
+        const navLinks = document.querySelectorAll('.custom-nav .nav-link');
+
+        navLinks.forEach(link => {
+            const linkPath = link.getAttribute('href');
+            // Gérer le cas où l'URL est vide ou pointe vers un répertoire
+            if (currentPath === '') {
+                if (linkPath === 'index.php') {
+                    link.classList.add('active');
+                }
+            } else {
+                if (linkPath === currentPath) {
+                    link.classList.add('active');
+                }
+            }
+        });
     });
 </script>

@@ -75,7 +75,7 @@
             <div class="row">
                 <div class="col-md-6 col-lg-4">
                     <div class="card mb-4">
-                    <img src="food3.jpg" class="card-img-top" alt="Stand de Spécialités Sucrées">
+                    <img src="assets/standSucree.jpg" class="card-img-top" alt="Stand de Spécialités Sucrées">
                         <div class="card-body">
                             <h3 class="card-title">Stand de Spécialités Sucrées</h3>
                             <p class="card-text">Crêpes, gaufres, et autres délices sucrés pour régaler petits et grands gourmands.</p>
@@ -92,7 +92,7 @@
 
                 <div class="col-md-6 col-lg-4">
                     <div class="card mb-4">
-                    <img src="food1.jpg" class="card-img-top" alt="Food Truck Gourmet">
+                    <img src="assets/foodTruckGourmet.jpg" class="card-img-top" alt="Food Truck Gourmet">
                         <div class="card-body">
                             <h3 class="card-title">Food Truck Gourmet</h3>
                             <p class="card-text">Burgers, tacos et plats chauds préparés avec des ingrédients frais et locaux.</p>
@@ -109,7 +109,7 @@
 
                 <div class="col-md-6 col-lg-4">
                     <div class="card mb-4">
-                        <img src="food2.jpg" class="card-img-top" alt="Bar à Smoothies">
+                        <img src="assets/barAsmoothie.jpg" class="card-img-top" alt="Bar à Smoothies">
                         <div class="card-body">
                             <h3 class="card-title">Bar à Smoothies</h3>
                             <p class="card-text">Smoothies frais et vitaminés pour une pause désalterante et énergétique.</p>

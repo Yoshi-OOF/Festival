@@ -1,4 +1,4 @@
-<?php
+<h?php
 // index.php
 ?>
 <!DOCTYPE html>
@@ -81,8 +81,8 @@
 
         <!-- Présentation du Festival -->
         <section id="presentation" class="mb-4">
-            <h2>Bienvenue au StudentFest 2024</h2>
-            <p>Le festival de musique étudiant le plus attendu du Périgord ! Rejoignez-nous pour trois jours de découvertes musicales, de rencontres et de festivités dans des lieux emblématiques de la région. Que vous soyez passionné par les dernières tendances ou à la recherche de nouveaux talents, le StudentFest 2024 a quelque chose pour tout le monde.</p>
+            <h1>Bienvenue au StudentFest 2024</h1>
+            <h4>Le festival de musique étudiant le plus attendu du Périgord ! Rejoignez-nous pour trois jours de découvertes musicales, de rencontres et de festivités dans des lieux emblématiques de la région. Que vous soyez passionné par les dernières tendances ou à la recherche de nouveaux talents, le StudentFest 2024 a quelque chose pour tout le monde.</h4>
         </section>
 
         <!-- Styles de Musique -->

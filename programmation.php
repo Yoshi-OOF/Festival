@@ -145,15 +145,7 @@
         </div>
     </section>
 
-    <footer class="bg-dark text-white text-center py-4">
-        <div class="container">
-            <p>&copy; 2024 StudentFest. Tous droits réservés.</p>
-            <div>
-                <a href="#" class="text-white me-3"><i class="fab fa-facebook-f"></i></a>
-                <a href="#" class="text-white me-3"><i class="fab fa-instagram"></i></a>
-                <a href="#" class="text-white"><i class="fab fa-twitter"></i></a>
-            </div>
-        </div>
-    </footer>
+    <?php include 'footer.html'; ?>
+
 </body>
 </html>

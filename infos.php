@@ -61,8 +61,8 @@
                         <h2 class="card-title">Plans</h2>
                         <p>Téléchargez les plans pour faciliter votre expérience :</p>
                         <ul>
-                            <li><a href="assets/plan_festival.pdf" target="_blank">Plan du festival</a> : Accès aux scènes, zones de restauration et camping.</li>
-                            <li><a href="assets/plan_parking.pdf" target="_blank">Plan des parkings</a> : Localisation des différentes zones de stationnement.</li>
+                            <li><a href="assets/plan.png" target="_blank">Plan du festival</a> : Accès aux scènes, zones de restauration et camping.</li>
+                            <li><a href="assets/plan.png" target="_blank">Plan des parkings</a> : Localisation des différentes zones de stationnement.</li>
                         </ul>
                     </div>
                 </div>

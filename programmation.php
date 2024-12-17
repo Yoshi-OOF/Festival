@@ -110,10 +110,76 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            Scène Principale - Vendredi
+                            Scène Principale
                         </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#scheduleAccordion">
+                        <div class="accordion-body">
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item"><strong>20:00</strong> Ouverture des portes</li>
+                                <li class="list-group-item"><strong>21:00</strong> Artiste A</li>
+                                <li class="list-group-item"><strong>22:30</strong> Artiste B</li>
+                                <li class="list-group-item"><strong>00:00</strong> DJ Set</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="schedule">
+            <div class="accordion" id="scheduleAccordion">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingTwo">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                            Scène Acoustique
+                        </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse show" aria-labelledby="headingTwo" data-bs-parent="#scheduleAccordion">
+                        <div class="accordion-body">
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item"><strong>20:00</strong> Ouverture des portes</li>
+                                <li class="list-group-item"><strong>21:00</strong> Artiste A</li>
+                                <li class="list-group-item"><strong>22:30</strong> Artiste B</li>
+                                <li class="list-group-item"><strong>00:00</strong> DJ Set</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="schedule">
+            <div class="accordion" id="scheduleAccordion">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingThree">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                            Scène Électronique
+                        </button>
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse show" aria-labelledby="headingThree" data-bs-parent="#scheduleAccordion">
+                        <div class="accordion-body">
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item"><strong>20:00</strong> Ouverture des portes</li>
+                                <li class="list-group-item"><strong>21:00</strong> Artiste A</li>
+                                <li class="list-group-item"><strong>22:30</strong> Artiste B</li>
+                                <li class="list-group-item"><strong>00:00</strong> DJ Set</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="schedule">
+            <div class="accordion" id="scheduleAccordion">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingFour">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                            Scène Alternative
+                        </button>
+                    </h2>
+                    <div id="collapseFour" class="accordion-collapse collapse show" aria-labelledby="headingFour" data-bs-parent="#scheduleAccordion">
                         <div class="accordion-body">
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item"><strong>20:00</strong> Ouverture des portes</li>

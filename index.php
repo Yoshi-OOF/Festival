@@ -107,7 +107,7 @@
                         Notez bien les dates, car STUDENTFEST 2024 est <em>le</em> festival à ne pas manquer cette année.  
                         <br>Au cœur du Périgord, une région riche en culture, en histoire et en paysages à couper le souffle.
                     </p>
-                    <a href="#reservations" class="btn btn-danger btn-lg mt-2">👉 Réservez vite vos places</a>
+                    <a href="billetterie.php" class="btn btn-danger btn-lg mt-2">👉 Réservez vite vos places</a>
                 </div>
             </div>
         </section>

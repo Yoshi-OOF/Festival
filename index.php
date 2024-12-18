@@ -80,9 +80,36 @@
         </section>
 
         <!-- Présentation du Festival -->
-        <section id="presentation" class="mb-4">
-            <h1>Bienvenue au StudentFest 2024</h1>
-            <h4>Le festival de musique étudiant le plus attendu du Périgord ! Rejoignez-nous pour trois jours de découvertes musicales, de rencontres et de festivités dans des lieux emblématiques de la région. Que vous soyez passionné par les dernières tendances ou à la recherche de nouveaux talents, le StudentFest 2024 a quelque chose pour tout le monde.</h4>
+        <section id="presentation" class="mb-5">
+            <div class="container">
+                <div class="text-center mb-4">
+                    <h1 class="text-primary">🎶 LE RENDEZ-VOUS MUSICAL INCONTOURNABLE DU PÉRIGORD : STUDENTFEST 2024 🎶</h1>
+                    <p class="fs-5 text-muted">
+                        Préparez-vous pour <strong>trois jours inoubliables</strong> de musique, de partage et de fête au cœur des lieux les plus emblématiques de la région !
+                    </p>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2 class="text-danger">✨ Pourquoi ne pas manquer cet événement ?</h2>
+                        <ul class="list-unstyled">
+                            <li><strong>🌟 Un programme exceptionnel</strong> : Découvrez des talents émergents et vibrez sur les dernières tendances musicales.</li>
+                            <li><strong>🏛 Des cadres enchanteurs</strong> : Concerts et animations dans des lieux uniques qui sublimeront chaque instant.</li>
+                            <li><strong>🎉 Ambiance étudiante et festive</strong> : Partagez votre passion pour la musique avec des gens du monde entier.</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="./assets/studentfest_promo.jpg" alt="StudentFest" class="img-fluid rounded shadow">
+                    </div>
+                </div>
+                <div class="text-center mt-4">
+                    <h3 class="text-success">📅 Quand ? 📍 Où ?</h3>
+                    <p class="fs-5">
+                        Notez bien les dates, car STUDENTFEST 2024 est <em>le</em> festival à ne pas manquer cette année.  
+                        <br>Au cœur du Périgord, une région riche en culture, en histoire et en paysages à couper le souffle.
+                    </p>
+                    <a href="#reservations" class="btn btn-danger btn-lg mt-2">👉 Réservez vite vos places</a>
+                </div>
+            </div>
         </section>
 
         <!-- Styles de Musique -->

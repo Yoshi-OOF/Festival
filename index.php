@@ -109,8 +109,27 @@
         }
 
         #presentation .btn:hover {
-            background-color: #2E6F3B; /* Vert plus foncé au survol */
             transform: scale(1.05);
+        }
+
+        .text-primary {
+            color: #4D934B; /* Vert pour les titres principaux */
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            font-size: 2.5rem;
+            letter-spacing: 1px;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .text-danger {
+            color: #2E6F3B; /* Vert légèrement plus foncé */
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 600;
+            font-size: 2rem;
+            letter-spacing: 0.8px;
+            text-align: center;
+            margin-bottom: 1rem;
         }
     </style>
 </head>

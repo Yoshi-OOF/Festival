@@ -67,7 +67,7 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="assets/thomasBerard.PNG" class="card-img-top" alt="Thomas Bernard">
+                            <img src="assets/thomasBernard.PNG" class="card-img-top" alt="Thomas Bernard">
                             <div class="card-body">
                                 <h5 class="card-title">Thomas Bernard</h5>
                                 <p class="card-text">Responsable Technique</p>
@@ -76,7 +76,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/sophie.jpg" class="card-img-top" alt="Sophie Martin">
+                            <img src="assets/sophieMartin.PNG" class="card-img-top" alt="Sophie Martin">
                             <div class="card-body">
                                 <h5 class="card-title">Sophie Martin</h5>
                                 <p class="card-text">Ingénieure Son</p>

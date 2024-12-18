@@ -31,6 +31,106 @@
         .music-style {
             margin-bottom: 30px;
         }
+        /* Présentation du Festival */
+        #presentation {
+            margin-top: 2rem;
+            margin-bottom: 3rem;
+            padding: 1.5rem;
+            font-family: 'Montserrat', sans-serif;
+            color: black;
+        }
+
+        #presentation h1,
+        #presentation h2 {
+            color: #4D934B;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            letter-spacing: 1px;
+        }
+
+        #presentation p {
+            font-size: 1rem;
+            line-height: 1.6;
+            color: black;
+        }
+
+        #presentation ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        #presentation ul li {
+            margin-bottom: 0.8rem;
+            font-size: 1rem;
+            font-weight: 600;
+            position: relative;
+            padding-left: 1.5rem;
+            color: black;
+        }
+
+        #presentation ul li::before {
+            content: '•';
+            color: #4D934B;
+            font-size: 1.2rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+        #presentation a {
+            color: #4D934B;
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.3s ease;
+        }
+
+        #presentation a:hover {
+            color: #2E6F3B;
+        }
+
+        #presentation img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+
+        #presentation .btn {
+            display: inline-block;
+            background-color: #4D934B; /* Bouton vert */
+            color: white;
+            font-weight: 600;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            text-align: center;
+            text-decoration: none;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            cursor: pointer;
+        }
+
+        #presentation .btn:hover {
+            transform: scale(1.05);
+        }
+
+        .text-primary {
+            color: #4D934B; /* Vert pour les titres principaux */
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            font-size: 2.5rem;
+            letter-spacing: 1px;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .text-danger {
+            color: #2E6F3B; /* Vert légèrement plus foncé */
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 600;
+            font-size: 2rem;
+            letter-spacing: 0.8px;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
     </style>
 </head>
 <body>
@@ -225,8 +325,8 @@
             <ul>
                 <li>Scène Principale</li>
                 <li>Scène Électro</li>
-                <li>Scène Acoustique</li>
-                <li>Scène Alternative</li>
+                <li>Scène Nouveaux Talents 1</li>
+                <li>Scène Nouveaux Talents 2</li>
             </ul>
             <p>Chaque scène offre une expérience unique pour satisfaire tous les goûts musicaux.</p>
         </section>

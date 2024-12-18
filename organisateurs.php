@@ -24,7 +24,7 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/lucie.jpg" class="card-img-top" alt="Lucie Durand">
+                            <img src="assets/lucieDurand.PNG" class="card-img-top" alt="Lucie Durand">
                             <div class="card-body">
                                 <h5 class="card-title">Lucie Durand</h5>
                                 <p class="card-text">Coordinatrice Logistique</p>
@@ -33,7 +33,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/martin.jpg" class="card-img-top" alt="Martin Clément">
+                            <img src="assets/martinClement.PNG" class="card-img-top" alt="Martin Clément">
                             <div class="card-body">
                                 <h5 class="card-title">Martin Clément</h5>
                                 <p class="card-text">Responsable des zones</p>
@@ -42,7 +42,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/julie.jpg" class="card-img-top" alt="Julie Robert">
+                            <img src="assets/julieRobert.PNG" class="card-img-top" alt="Julie Robert">
                             <div class="card-body">
                                 <h5 class="card-title">Julie Robert</h5>
                                 <p class="card-text">Gestion des accès et flux</p>
@@ -51,7 +51,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/paul.jpg" class="card-img-top" alt="Paul Bernard">
+                            <img src="assets/paulBernard.PNG" class="card-img-top" alt="Paul Bernard">
                             <div class="card-body">
                                 <h5 class="card-title">Paul Bernard</h5>
                                 <p class="card-text">Chef d'équipe montage/démontage</p>
@@ -67,7 +67,7 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/thomas.jpg" class="card-img-top" alt="Thomas Bernard">
+                            <img src="assets/thomasBerard.PNG" class="card-img-top" alt="Thomas Bernard">
                             <div class="card-body">
                                 <h5 class="card-title">Thomas Bernard</h5>
                                 <p class="card-text">Responsable Technique</p>
@@ -85,7 +85,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/alex.jpg" class="card-img-top" alt="Alex Dupuis">
+                            <img src="assets/alexDupuis.PNG" class="card-img-top" alt="Alex Dupuis">
                             <div class="card-body">
                                 <h5 class="card-title">Alex Dupuis</h5>
                                 <p class="card-text">Technicien Lumière</p>
@@ -94,7 +94,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/lucas.jpg" class="card-img-top" alt="Lucas Garcia">
+                            <img src="assets/lucaGarcia.PNG" class="card-img-top" alt="Lucas Garcia">
                             <div class="card-body">
                                 <h5 class="card-title">Lucas Garcia</h5>
                                 <p class="card-text">Assistant Audiovisuel</p>
@@ -110,7 +110,7 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/marie.jpg" class="card-img-top" alt="Marie Martin">
+                            <img src="assets/marieMartin.PNG" class="card-img-top" alt="Marie Martin">
                             <div class="card-body">
                                 <h5 class="card-title">Marie Martin</h5>
                                 <p class="card-text">Responsable Communication</p>
@@ -119,7 +119,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/emilie.jpg" class="card-img-top" alt="Émilie Dupont">
+                            <img src="assets/emilieDupond.PNG" class="card-img-top" alt="Émilie Dupont">
                             <div class="card-body">
                                 <h5 class="card-title">Émilie Dupont</h5>
                                 <p class="card-text">Photographe</p>
@@ -128,7 +128,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/antoine.jpg" class="card-img-top" alt="Antoine Blanc">
+                            <img src="assets/antoineBlanc.PNG" class="card-img-top" alt="Antoine Blanc">
                             <div class="card-body">
                                 <h5 class="card-title">Antoine Blanc</h5>
                                 <p class="card-text">Chargé des réseaux sociaux</p>
@@ -137,7 +137,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/claire.jpg" class="card-img-top" alt="Claire Rivet">
+                            <img src="assets/claireRivet.PNG" class="card-img-top" alt="Claire Rivet">
                             <div class="card-body">
                                 <h5 class="card-title">Claire Rivet</h5>
                                 <p class="card-text">Gestion accréditations presse</p>
@@ -153,7 +153,7 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/camille.jpg" class="card-img-top" alt="Camille Leroy">
+                            <img src="assets/camilleLeroiy.PNG" class="card-img-top" alt="Camille Leroy">
                             <div class="card-body">
                                 <h5 class="card-title">Camille Leroy</h5>
                                 <p class="card-text">Responsable Stands Restauration</p>
@@ -162,7 +162,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/david.jpg" class="card-img-top" alt="David Morel">
+                            <img src="assets/davidMorrel.PNG" class="card-img-top" alt="David Morel">
                             <div class="card-body">
                                 <h5 class="card-title">David Morel</h5>
                                 <p class="card-text">Superviseur Hygiène</p>

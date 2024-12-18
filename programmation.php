@@ -87,16 +87,16 @@
                 <div class="col-md-6 col-lg-3">
                     <div class="card scene-card h-100">
                         <div class="card-body">
-                            <h5 class="card-title"><i class="fas fa-headphones"></i> Scène Électronique</h5>
-                            <p class="card-text">Pour les amateurs de musique électronique, avec des DJs et des performances visuelles impressionnantes.</p>
+                            <h5 class="card-title"><i class="fas fa-headphones"></i> Scène Nouveaux Talents 1</h5>
+                            <p class="card-text">Nous voulons profiter de cette événement pour donner la chance à des amateurs de pouvoir performer et se faire connaître.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="card scene-card h-100">
                         <div class="card-body">
-                            <h5 class="card-title"><i class="fas fa-microphone-alt"></i> Scène Alternative</h5>
-                            <p class="card-text">Espace pour les genres alternatifs, incluant rock, indie et autres styles innovants.</p>
+                            <h5 class="card-title"><i class="fas fa-microphone-alt"></i> Scène Nouveaux Talents 2</h5>
+                            <p class="card-text">Rap, Hip-hop, Rock, Métal, Classique, Electro... Une deuxième scène pour les nouveaux talents n'est pas de trop !</p>
                         </div>
                     </div>
                 </div>

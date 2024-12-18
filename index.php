@@ -329,6 +329,37 @@
                 <li>Scène Nouveaux Talents 2</li>
             </ul>
             <p>Chaque scène offre une expérience unique pour satisfaire tous les goûts musicaux.</p>
+            <div class="container">
+            <h2 class="mb-4 text-center">Artistes principaux</h2>
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <img src="./assets/imagine dragons.jpg" class="img-fluid rounded" alt="Galerie 1">
+                    <h4>Imagine Dragons</h4>
+                </div>
+                <div class="col-md-4">
+                    <img src="./assets/queen.jpg" class="img-fluid rounded" alt="Galerie 2">
+                    <h4>Queen</h4>
+                </div>
+                <div class="col-md-4">
+                    <img src="./assets/twenty one pilots.jpg" class="img-fluid rounded" alt="Galerie 3">
+                    <h4>Twenty One Pilots</h4>
+                </div>
+            </div>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <img src="./assets/angele.jpg" class="img-fluid rounded" alt="Galerie 1">
+                    <h4>Angèle</h4>
+                </div>
+                <div class="col-md-4">
+                    <img src="./assets/muse.jpg" class="img-fluid rounded" alt="Galerie 2">
+                    <h4>Muse</h4>
+                </div>
+                <div class="col-md-4">
+                    <img src="./assets/gazo.jpg" class="img-fluid rounded" alt="Galerie 3">
+                    <h4>Gazo</h4>
+                </div>
+            </div>
+        </div>
         </section>
 
         <!-- Accessibilité -->

@@ -64,6 +64,40 @@
 <body>
     <?php include 'header.html'; ?>
 
+    <section id="gallery" class="bg-light py-5">
+        <div class="container">
+            <h2 class="mb-4 text-center">Artistes principaux</h2>
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <img src="./assets/imagine dragons.jpg" class="img-fluid rounded" alt="Galerie 1">
+                    <h4>Imagine Dragons</h4>
+                </div>
+                <div class="col-md-4">
+                    <img src="./assets/queen.jpg" class="img-fluid rounded" alt="Galerie 2">
+                    <h4>Queen</h4>
+                </div>
+                <div class="col-md-4">
+                    <img src="./assets/twenty one pilots.jpg" class="img-fluid rounded" alt="Galerie 3">
+                    <h4>Twenty One Pilots</h4>
+                </div>
+            </div>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <img src="./assets/angele.jpg" class="img-fluid rounded" alt="Galerie 1">
+                    <h4>Angèle</h4>
+                </div>
+                <div class="col-md-4">
+                    <img src="./assets/muse.jpg" class="img-fluid rounded" alt="Galerie 2">
+                    <h4>Muse</h4>
+                </div>
+                <div class="col-md-4">
+                    <img src="./assets/gazo.jpg" class="img-fluid rounded" alt="Galerie 3">
+                    <h4>Gazo</h4>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <main class="container my-5">
         <section id="scenes" class="mb-5">
             <h2 class="mb-4 text-center">Présentation des 4 Scènes et leurs Thématiques</h2>
@@ -116,10 +150,15 @@
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#scheduleAccordion">
                         <div class="accordion-body">
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item"><strong>20:00</strong> Ouverture des portes</li>
-                                <li class="list-group-item"><strong>21:00</strong> Artiste A</li>
-                                <li class="list-group-item"><strong>22:30</strong> Artiste B</li>
-                                <li class="list-group-item"><strong>00:00</strong> DJ Set</li>
+                                <li class="list-group-item"><strong>Vendredi</strong></li>
+                                <li class="list-group-item"><strong>20:00</strong> Imagine Dragons</li>
+                                <li class="list-group-item"><strong>22:00</strong> Angèle</li>
+                                <li class="list-group-item"><strong>Samedi</strong></li>
+                                <li class="list-group-item"><strong>20:00</strong> Muse</li>
+                                <li class="list-group-item"><strong>22:00</strong> Gazo</li>
+                                <li class="list-group-item"><strong>Dimanche</strong></li>
+                                <li class="list-group-item"><strong>20:00</strong> Twenty One Pilots</li>
+                                <li class="list-group-item"><strong>22:00</strong> Queen</li>
                             </ul>
                         </div>
                     </div>
@@ -138,10 +177,18 @@
                     <div id="collapseTwo" class="accordion-collapse collapse show" aria-labelledby="headingTwo" data-bs-parent="#scheduleAccordion">
                         <div class="accordion-body">
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item"><strong>20:00</strong> Ouverture des portes</li>
-                                <li class="list-group-item"><strong>21:00</strong> Artiste A</li>
-                                <li class="list-group-item"><strong>22:30</strong> Artiste B</li>
-                                <li class="list-group-item"><strong>00:00</strong> DJ Set</li>
+                                <li class="list-group-item"><strong>Vendredi</strong></li>
+                                <li class="list-group-item"><strong>19:00</strong> Skillet</li>
+                                <li class="list-group-item"><strong>22:30</strong> Ed Sheeran</li>
+                                <li class="list-group-item"><strong>00:30</strong> Jack Johnson</li>
+                                <li class="list-group-item"><strong>Samedi</strong></li>
+                                <li class="list-group-item"><strong>17:00</strong> City and Colour</li>
+                                <li class="list-group-item"><strong>19:30</strong> José González</li>
+                                <li class="list-group-item"><strong>21:30</strong> Never Shout Never</li>
+                                <li class="list-group-item"><strong>23:30</strong> Boyce Avenue</li>
+                                <li class="list-group-item"><strong>Dimanche</strong></li>
+                                <li class="list-group-item"><strong>17:00</strong> Joshua Radin</li>
+                                <li class="list-group-item"><strong>19:30</strong> Gabrielle Aplin</li>
                             </ul>
                         </div>
                     </div>
@@ -154,16 +201,24 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingThree">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                            Scène Électronique
+                            Scène Nouveaux Talents 1
                         </button>
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse show" aria-labelledby="headingThree" data-bs-parent="#scheduleAccordion">
                         <div class="accordion-body">
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item"><strong>20:00</strong> Ouverture des portes</li>
-                                <li class="list-group-item"><strong>21:00</strong> Artiste A</li>
-                                <li class="list-group-item"><strong>22:30</strong> Artiste B</li>
-                                <li class="list-group-item"><strong>00:00</strong> DJ Set</li>
+                                <li class="list-group-item"><strong>Vendredi</strong></li>
+                                <li class="list-group-item"><strong>21:00</strong> Luther</li>
+                                <li class="list-group-item"><strong>22:30</strong> Tiakola</li>
+                                <li class="list-group-item"><strong>00:00</strong> Ruminant</li>
+                                <li class="list-group-item"><strong>Samedi</strong></li>
+                                <li class="list-group-item"><strong>17:00</strong> Bekar</li>
+                                <li class="list-group-item"><strong>18:30</strong> Joseph Kamel</li>
+                                <li class="list-group-item"><strong>21:00</strong> Pierre Garnier</li>
+                                <li class="list-group-item"><strong>Dimanche</strong></li>
+                                <li class="list-group-item"><strong>17:00</strong> Charlotte Cardin</li>
+                                <li class="list-group-item"><strong>18:30</strong> ELOI</li>
+                                <li class="list-group-item"><strong>21:00</strong> Aliocha Schneider</li>.
                             </ul>
                         </div>
                     </div>
@@ -176,16 +231,23 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingFour">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                            Scène Alternative
+                            Scène Nouveaux Talents 2
                         </button>
                     </h2>
                     <div id="collapseFour" class="accordion-collapse collapse show" aria-labelledby="headingFour" data-bs-parent="#scheduleAccordion">
                         <div class="accordion-body">
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item"><strong>20:00</strong> Ouverture des portes</li>
-                                <li class="list-group-item"><strong>21:00</strong> Artiste A</li>
-                                <li class="list-group-item"><strong>22:30</strong> Artiste B</li>
-                                <li class="list-group-item"><strong>00:00</strong> DJ Set</li>
+                                <li class="list-group-item"><strong>Vendredi</strong></li>
+                                <li class="list-group-item"><strong>20:00</strong> Clara Ysé</li>
+                                <li class="list-group-item"><strong>21:30</strong> Yamê</li>
+                                <li class="list-group-item"><strong>23:00</strong> La Fève</li>
+                                <li class="list-group-item"><strong>Samedi</strong></li>
+                                <li class="list-group-item"><strong>18:00</strong> Trinix</li>
+                                <li class="list-group-item"><strong>20:30</strong> Irène Drésel</li>
+                                <li class="list-group-item"><strong>22:00</strong> Ben Mazué</li>
+                                <li class="list-group-item"><strong>Dimanche</strong></li>
+                                <li class="list-group-item"><strong>17:00</strong> Corsu Mezu Mezu</li>
+                                <li class="list-group-item"><strong>19:30</strong> Therapie Taxi</li>
                             </ul>
                         </div>
                     </div>

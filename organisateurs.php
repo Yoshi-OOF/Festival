@@ -171,7 +171,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/laura.jpg" class="card-img-top" alt="Laura Petit">
+                            <img src="assets/lauraPetit.PNG" class="card-img-top" alt="Laura Petit">
                             <div class="card-body">
                                 <h5 class="card-title">Laura Petit</h5>
                                 <p class="card-text">Gestion des points de recyclage</p>
@@ -187,7 +187,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="card">
-                            <img src="photos/philippe.jpg" class="card-img-top" alt="Philippe Renaud">
+                            <img src="assets/philipRenaud.PNG" class="card-img-top" alt="Philippe Renaud">
                             <div class="card-body">
                                 <h5 class="card-title">Philippe Renaud</h5>
                                 <p class="card-text">Responsable Sécurité</p>
@@ -196,7 +196,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="card">
-                            <img src="photos/caroline.jpg" class="card-img-top" alt="Caroline Dupuis">
+                            <img src="assets/carolineDupuis.PNG" class="card-img-top" alt="Caroline Dupuis">
                             <div class="card-body">
                                 <h5 class="card-title">Caroline Dupuis</h5>
                                 <p class="card-text">Coordinatrice Secours</p>
@@ -205,10 +205,10 @@
                     </div>
                     <div class="col-md-4">
                         <div class="card">
-                            <img src="photos/equipe_securite.jpg" class="card-img-top" alt="Équipe Sécurité Partenaire">
+                            <img src="assets/agentSecurite.PNG" class="card-img-top" alt="Équipe Sécurité Partenaire">
                             <div class="card-body">
-                                <h5 class="card-title">Équipe Sécurité Partenaire</h5>
-                                <p class="card-text">Agents de sécurité</p>
+                                <h5 class="card-title">Elodie Echebest</h5>
+                                <p class="card-text">Agent de sécurité - Équipe Sécurité Partenaire</p>
                             </div>
                         </div>
                     </div>
@@ -221,7 +221,7 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/jean.jpg" class="card-img-top" alt="Jean Dupont">
+                            <img src="assets/jeanDupont.PNG" class="card-img-top" alt="Jean Dupont">
                             <div class="card-body">
                                 <h5 class="card-title">Jean Dupont</h5>
                                 <p class="card-text">Président</p>
@@ -230,7 +230,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/julie.jpg" class="card-img-top" alt="Julie Rivière">
+                            <img src="assets/julieRiviere.PNG" class="card-img-top" alt="Julie Rivière">
                             <div class="card-body">
                                 <h5 class="card-title">Julie Rivière</h5>
                                 <p class="card-text">Responsable Budget</p>
@@ -239,7 +239,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/nicolas.jpg" class="card-img-top" alt="Nicolas Lefevre">
+                            <img src="assets/nicolasLefevre.PNG" class="card-img-top" alt="Nicolas Lefevre">
                             <div class="card-body">
                                 <h5 class="card-title">Nicolas Lefevre</h5>
                                 <p class="card-text">Chargé des subventions</p>
@@ -248,7 +248,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card">
-                            <img src="photos/clara.jpg" class="card-img-top" alt="Clara Sanchez">
+                            <img src="assets/claraSanchez.PNG" class="card-img-top" alt="Clara Sanchez">
                             <div class="card-body">
                                 <h5 class="card-title">Clara Sanchez</h5>
                                 <p class="card-text">Responsable Sponsors</p>

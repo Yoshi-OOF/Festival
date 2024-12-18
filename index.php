@@ -225,8 +225,8 @@
             <ul>
                 <li>Scène Principale</li>
                 <li>Scène Électro</li>
-                <li>Scène Acoustique</li>
-                <li>Scène Alternative</li>
+                <li>Scène Nouveaux Talents 1</li>
+                <li>Scène Nouveaux Talents 2</li>
             </ul>
             <p>Chaque scène offre une expérience unique pour satisfaire tous les goûts musicaux.</p>
         </section>

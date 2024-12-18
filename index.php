@@ -37,22 +37,21 @@
             margin-bottom: 3rem;
             padding: 1.5rem;
             font-family: 'Montserrat', sans-serif;
-            color: white;
+            color: black;
         }
 
         #presentation h1,
         #presentation h2 {
-            color: white;
+            color: #4D934B;
             font-family: 'Montserrat', sans-serif;
             font-weight: 700;
-            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
             letter-spacing: 1px;
         }
 
         #presentation p {
             font-size: 1rem;
             line-height: 1.6;
-            color: white;
+            color: black;
         }
 
         #presentation ul {
@@ -66,11 +65,12 @@
             font-weight: 600;
             position: relative;
             padding-left: 1.5rem;
+            color: black;
         }
 
         #presentation ul li::before {
             content: '•';
-            color: #94E9A8;
+            color: #4D934B;
             font-size: 1.2rem;
             position: absolute;
             left: 0;
@@ -78,26 +78,58 @@
         }
 
         #presentation a {
-            color: white;
-            text-decoration: underline;
+            color: #4D934B;
+            text-decoration: none;
+            font-weight: 600;
             transition: color 0.3s ease;
         }
 
         #presentation a:hover {
-            color: #C9F06D;
+            color: #2E6F3B;
         }
 
         #presentation img {
             max-width: 100%;
             height: auto;
             border-radius: 5px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
 
-        #presentation img:hover {
-            transform: scale(1.02);
-            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+        #presentation .btn {
+            display: inline-block;
+            background-color: #4D934B; /* Bouton vert */
+            color: white;
+            font-weight: 600;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            text-align: center;
+            text-decoration: none;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            cursor: pointer;
+        }
+
+        #presentation .btn:hover {
+            transform: scale(1.05);
+        }
+
+        .text-primary {
+            color: #4D934B; /* Vert pour les titres principaux */
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            font-size: 2.5rem;
+            letter-spacing: 1px;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .text-danger {
+            color: #2E6F3B; /* Vert légèrement plus foncé */
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 600;
+            font-size: 2rem;
+            letter-spacing: 0.8px;
+            text-align: center;
+            margin-bottom: 1rem;
         }
     </style>
 </head>
@@ -308,7 +340,7 @@
                 <div class="col-md-6 mb-3">
                     <div class="border p-3 rounded">
                         <h4>🚍 Transports</h4>
-                        <p>Arrêts de bus et stations de tramway situés à moins de 200 mètres du site.</p>
+                        <p>Arrêts de bus et navettes situés à moins de 200 mètres du village.</p>
                     </div>
                 </div>
                 <!-- Stationnement -->

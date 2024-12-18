@@ -139,7 +139,7 @@
                         <div class="carousel-item">
                             <img src="./assets/scene.jpg" class="d-block w-100 rounded" alt="Scène Principal">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Scène Principal</h5>
+                                <h5>Gospel en scène principale</h5>
                             </div>
                         </div>
                         <div class="carousel-item">

@@ -31,6 +31,74 @@
         .music-style {
             margin-bottom: 30px;
         }
+        /* Présentation du Festival */
+        #presentation {
+            margin-top: 2rem;
+            margin-bottom: 3rem;
+            padding: 1.5rem;
+            font-family: 'Montserrat', sans-serif;
+            color: white;
+        }
+
+        #presentation h1,
+        #presentation h2 {
+            color: white;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+            letter-spacing: 1px;
+        }
+
+        #presentation p {
+            font-size: 1rem;
+            line-height: 1.6;
+            color: white;
+        }
+
+        #presentation ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        #presentation ul li {
+            margin-bottom: 0.8rem;
+            font-size: 1rem;
+            font-weight: 600;
+            position: relative;
+            padding-left: 1.5rem;
+        }
+
+        #presentation ul li::before {
+            content: '•';
+            color: #94E9A8;
+            font-size: 1.2rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+        #presentation a {
+            color: white;
+            text-decoration: underline;
+            transition: color 0.3s ease;
+        }
+
+        #presentation a:hover {
+            color: #C9F06D;
+        }
+
+        #presentation img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        #presentation img:hover {
+            transform: scale(1.02);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+        }
     </style>
 </head>
 <body>

@@ -321,7 +321,7 @@
                 <div class="col-md-6 mb-3">
                     <div class="border p-3 rounded">
                         <h4>🚍 Transports</h4>
-                        <p>Arrêts de bus et stations de tramway situés à moins de 200 mètres du site.</p>
+                        <p>Arrêts de bus et navettes situés à moins de 200 mètres du village.</p>
                     </div>
                 </div>
                 <!-- Stationnement -->

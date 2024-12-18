@@ -31,6 +31,73 @@
         .music-style {
             margin-bottom: 30px;
         }
+        /* Présentation du Festival */
+        #presentation {
+            margin-top: 2rem;
+            margin-bottom: 3rem;
+            padding: 2rem;
+            background: linear-gradient(135deg, #A7E7D4, #65B27A);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            color: white;
+            font-family: 'Montserrat', sans-serif;
+        }
+
+        #presentation h1,
+        #presentation h2 {
+            color: #C9F06D;
+            text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
+            font-weight: 700;
+        }
+
+        #presentation ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        #presentation ul li {
+            margin-bottom: 1rem;
+            font-size: 1.2rem;
+            position: relative;
+            padding-left: 1.5rem;
+        }
+
+        #presentation ul li::before {
+            content: '✔️';
+            color: #94E9A8;
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+        #presentation p a {
+            color: white;
+            background: #65B27A;
+            border: 2px solid white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            transition: background 0.3s ease, color 0.3s ease;
+        }
+
+        #presentation p a:hover {
+            color: #65B27A;
+            background: white;
+        }
+
+        #presentation img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        #presentation img:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+        }
     </style>
 </head>
 <body>
